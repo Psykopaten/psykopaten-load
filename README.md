@@ -4,6 +4,6 @@
 # Orginal Link Here
 Kosta Loading Screen: https://forum.cfx.re/t/release-loadingscreen-animated-kosta-loading/1359465
 
-# Creators
-Made By: Kosta
-Remade By: Psykopaten
+
+# Made By: Kosta
+# Remade By: Psykopaten
