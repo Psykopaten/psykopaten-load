@@ -1,6 +1,3 @@
-# psykopaten-load
-
-# Hello!
 # This loading screen is not made by me. I just remade it
 
 
